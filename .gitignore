@@ -50,3 +50,5 @@ tmp*
 sender
 receiver
 prober
+.vscode/c_cpp_properties.json
+.gitignore
